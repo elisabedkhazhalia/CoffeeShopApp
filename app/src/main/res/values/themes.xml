@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme for XML activities -->
+    <style name="Theme.CoffeShop_App" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here -->
+        <item name="colorPrimary">#C67C4E</item>
+        <item name="colorPrimaryDark">#000000</item>
+        <item name="colorAccent">#C67C4E</item>
+        <item name="android:statusBarColor">@color/black</item>
+    </style>
+
+    <!-- Theme for Compose activities (MainActivity) -->
+    <style name="Theme.CoffeShop_App.Compose" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+</resources>
