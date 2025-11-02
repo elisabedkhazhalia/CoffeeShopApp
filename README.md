@@ -8,10 +8,10 @@ A beautiful and modern Android coffee shop application built with Kotlin. Browse
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="screenshots/activity_onboarding.png/" width="200" alt="Onboarding Screen" />
+  <img src="screenshots/activity_onboarding.png/" width="150" alt="Onboarding Screen" />
   <img src="screenshots/activity_home.png" width="220" alt="Home Screen" />
-  <img src="screenshots/activity_detail.png" width="200" alt="Detail Screen" />
-  <img src="screenshots/activity_order.png" width="200" alt="Order Screen" />
+  <img src="screenshots/activity_detail.png" width="150" alt="Detail Screen" />
+  <img src="screenshots/activity_order.png" width="150" alt="Order Screen" />
 </p>
 
 ## 📋 App Screens
